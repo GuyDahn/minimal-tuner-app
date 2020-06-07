@@ -30,7 +30,7 @@ export const MainContainer = styled.main`
   display: flex;
   justify-content: center;
   align-content: center;
-  background-color: #95a5a6;
+  background-color: #6c757d;
   width: 100%;
   height: 100vh;
 `;

@@ -28,7 +28,7 @@ export const ResultContainer = styled.div`
 
 export const NoteName = styled.span`
   font-size: 60px;
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
 `;
