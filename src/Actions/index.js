@@ -1,6 +1,6 @@
-import { CHNAGE_CURRENT_NOTE } from './actionTypes';
+import { CHANGE_CURRENT_NOTE } from "./actionTypes";
 
 export const changeCurrentNote = note => ({
-    type: CHNAGE_CURRENT_NOTE,
-    currentNote: note
-})
+  type: CHANGE_CURRENT_NOTE,
+  currentNote: note
+});
